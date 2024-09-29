@@ -13,7 +13,7 @@
   <p align="center">
     An RP-anonymization-based privacy-preserving SSO scheme.
     <br />
-    <a href="https://arpsso.live/"><strong>ARPSSO Demo</strong></a> / <a href="./paper.pdf" target="_blank"><strong>Full Version Paper</strong></a> / <a href="https://github.com/ARPSSO/TIBDF" target="_blank"><strong>Proof Model</strong></a> / <a href="https://github.com/ARPSSO/DVF-js" target="_blank"><strong>DVF Script</strong></a>
+    <a href="https://arpsso.hejunlin.cn"><strong>ARPSSO Demo</strong></a> / <a href="./paper.pdf" target="_blank"><strong>Full Version Paper</strong></a> / <a href="https://github.com/ARPSSO/TIBDF" target="_blank"><strong>Proof Model</strong></a> / <a href="https://github.com/ARPSSO/DVF-js" target="_blank"><strong>DVF Script</strong></a>
 
   </p>
 </div>
